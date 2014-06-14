@@ -1,4 +1,4 @@
-india_procurement_scraper
+Procurement Data Scraper
 =========================
 
-Scraper for DC Data Sprint: Indian Procurement Tenders.Gov.IN
+Scraper for DC Data Sprint: Indian Procurement at Tenders.Gov.IN

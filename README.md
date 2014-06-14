@@ -17,7 +17,9 @@ The scraper works on pages of the form: `http://tenders.gov.in/innerpage.asp?cho
 Output is JSON.  If a list of every tid and choice combination can be found, we can do a scraper to pull the complete dataset.
 
 
+####iMacro script
 
+There's a simple [iMacro](iMacrohttps://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/) script imacro_script.txt for saving html pages for tid scraping.
 
 
 

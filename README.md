@@ -8,9 +8,7 @@ Scraper for DC Data Sprint: Indian Procurement at Tenders.Gov.IN
 
     > python scraper.py <choice> <tid>
     
-The scraper works on pages of the form: `http://tenders.gov.in/innerpage.asp?choice=tc5&tid=karn665134&work=1`
-
-where tid and choice need to go into the command line for the scraper.  
+The scraper works on pages of the form: `http://tenders.gov.in/innerpage.asp?choice=tc5&tid=karn665134&work=1` where tid and choice need to go into the command line for the scraper.  
 
 ####Example
 
